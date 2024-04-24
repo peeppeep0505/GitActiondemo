@@ -1,6 +1,7 @@
 {
   "projects": {
-    "default": "GitActiondemo"
+    "default": "demogitaction-d604f",
+    "GitActiondemo": "demogitaction-d604f"
   },
   "targets": {},
   "etags": {}
